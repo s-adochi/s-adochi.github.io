@@ -3,5 +3,5 @@ Hi, I'm Silvanus Adochi Tabu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>A S
 
 <p>Currently, I engage my services as a web designer. I have proven expertise in building creative and eye-catching websites.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 
-If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> <br>My email address is: <a href="mailto:sylvanusadochi@gmail.com">biz@silvanusadochi.com</a> and my Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a>.
+If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> <br>Email address: <a href="mailto:sylvanusadochi@gmail.com">biz@silvanusadochi.com</a> <br>My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a>.
 <p>And if you haven't already, be sure to check out my portfolio <a href="https://s-adochi.github.io/">https://s-adochi.github.io/</a> <br> More about me can be found <a href="https://linkedin.com/in/silvanus-adochi-9a6081193">here</a>.</p>
