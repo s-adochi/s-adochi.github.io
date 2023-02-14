@@ -1,5 +1,5 @@
 <span id="a">silvanus@adochi</span>:<span id="b">~</span><span id="c">$</span> sudo dochi<br/><br/>
-Hi, I'm Silvanus Adochi Tabu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>A Software Engineer specializing in building exceptional user exeperience on the Web.</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+Hi, I'm Silvanus Adochi Tabu.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>A Software Engineer specializing in building exceptional user exeperience on the Web.</a></p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 
 <p>Currently, I engage my services as a web designer. I have proven expertise in building creative and eye-catching websites.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 
