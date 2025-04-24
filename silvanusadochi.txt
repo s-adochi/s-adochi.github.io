@@ -9,7 +9,8 @@ Hi, I'm Silvanus Adochi Tabu.
 
 <br>Email address: <a href="mailto:silvanus@dochitech.co.ke">silvanus@dochitech.co.ke</a><br>
 My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a><br>
-My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a>
+My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a><br>
+My Contact: <a href="tel:0748881724">+254 748 881724</a>
 
 <p>Here are some of the websites I've worked on:<br/>
 <a href="https://ipris.digital/">ipris.digital</a><br/>
