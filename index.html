@@ -1,4 +1,3 @@
-<!-- Copyright (c) 2022 Silvanus Adochi <sylvanusadochi@gmail.com> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,39 +13,39 @@
       color: #fff;
     }
     #console {
-      max-width: 100%;
-      padding: 1rem;
-      box-sizing: border-box;
+      max-width: 90%;
+      margin: 100px auto;
       font-size: 14px;
+      word-wrap: break-word;
     }
     a {
       color: #0bc;
       text-decoration: none;
-      word-wrap: break-word;
     }
     #a { color: #0f0; }
     #b { color: #ff0096; }
     #c { color: #0bc; }
+    @media screen and (max-width: 768px) {
+      #console {
+        font-size: 13px;
+        margin-top: 50px;
+      }
+    }
   </style>
 </head>
 <body>
-  <div id="console">
-    <span id="a">silvanus@adochi</span>:<span id="b">~</span><span id="c">$</span> sudo dochi<br/><br/>
+  <div id="console">Loading portfolio...</div>
 
-    Hi, I'm Silvanus Adochi Tabu.<br/><br/>
-
-    <p>A Software Engineer specializing in building exceptional user experiences on the Web.</p>
-    <p>Currently, I engage my services as a web designer.<br />
-    I have proven expertise in building creative and eye-catching websites.</p>
-
-    <p>If you would like to get in touch with me, whether it be for tech support, a business venture, or just to say hi, feel free to send me an email or a tweet.</p>
-
-    <p>Email address: <a href="mailto:sylvanusadochi@gmail.com">biz@silvanusadochi.com</a><br/>
-    My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a><br/>
-    My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a></p>
-
-    <p>And if you haven't already, be sure to check out some of my favourite <a href="https://s-adochi.github.io/projects/">projects</a> I worked on.<br/>
-    More about me can be found <a href="https://linkedin.com/in/silvanus-adochi-9a6081193">here</a>.</p>
-  </div>
+  <script>
+    fetch("silvanusadochi.txt")
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById("console").innerHTML = data;
+      })
+      .catch(error => {
+        document.getElementById("console").innerHTML = "Failed to load portfolio content.";
+        console.error("Error loading .txt file:", error);
+      });
+  </script>
 </body>
 </html>
