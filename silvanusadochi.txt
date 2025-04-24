@@ -1,10 +1,26 @@
 <span id="a">silvanus@adochi</span>:<span id="b">~</span><span id="c">$</span> sudo dochi<br/><br/>
-Hi, I'm Silvanus Adochi Tabu.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hi, I'm Silvanus Adochi Tabu.
 
-<p>A Software Engineer specializing in building exceptional user exeperience on the Web.</a></p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
-<p>Currently, I engage my services as a web designer. <br>I have proven expertise in building creative and eye-catching websites.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+<p>A Software Engineer specializing in building exceptional user experience on the Web.</p>
+<p>Currently, I engage my services as a web designer.<br>I have proven expertise in building creative and eye-catching websites.</p>
 
-If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email or a tweet.
+If you would like to get in touch with me, whether it be for tech support, a business venture, or just to say hi, feel free to send me an email or a tweet.
 
-<!-- longlongcomment --> <br>Email address: <a href="mailto:sylvanusadochi@gmail.com">biz@silvanusadochi.com</a> <br>My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a><br>My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a>.
-<p>And if you haven't already, be sure to check out some of my favourite <a href="https://s-adochi.github.io/projects/">projects</a> I worked on. <br> More about me can be found <a href="https://linkedin.com/in/silvanus-adochi-9a6081193">here</a>.</p>
+<br>Email address: <a href="mailto:biz@silvanusadochi.com">biz@silvanusadochi.com</a><br>
+My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a><br>
+My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a>
+
+<p>Here are some of the websites I've worked on:<br/>
+<a href="https://ipris.digital/">ipris.digital</a><br/>
+<a href="https://audibel.co.ke/">audibel.co.ke</a><br/>
+<a href="https://listingster.com/">listingster.com</a><br/>
+<a href="https://brondbyenterpriseslimited.com">brondbyenterpriseslimited.com</a><br/>
+<a href="https://brainshinechildreninternational.org/">brainshinechildreninternational.org</a><br/>
+<a href="https://www.heritagefurnitureke.co.ke/">heritagefurnitureke.co.ke</a><br/>
+<a href="https://www.propertieshub.co.ke/">propertieshub.co.ke</a><br/>
+<a href="https://acacialounge.co.ke/">acacialounge.co.ke</a><br/>
+<a href="https://cordlesssource.com/">cordlesssource.com</a><br/>
+<a href="https://grandswisssuites.com/">grandswisssuites.com</a><br/>
+<a href="https://grandroyalswisshotel.com/">grandroyalswisshotel.com</a></p>
+
+<p>More about me can be found <a href="https://linkedin.com/in/silvanus-adochi-9a6081193">here</a>.</p>
