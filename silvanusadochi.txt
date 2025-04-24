@@ -1,12 +1,13 @@
 <span id="a">silvanus@adochi</span>:<span id="b">~</span><span id="c">$</span> sudo dochi<br/><br/>
 Hi, I'm Silvanus Adochi Tabu.
 
-<p>A Software Engineer specializing in building exceptional user experience on the Web.</p>
-<p>Currently, I engage my services as a web designer.<br>I have proven expertise in building creative and eye-catching websites.</p>
+<p>I'm an SEO Specialist, Web Developer, and WordPress expert with a strong passion for creating high-performing websites that rank, engage, and convert.</p>
 
-If you would like to get in touch with me, whether it be for tech support, a business venture, or just to say hi, feel free to send me an email or a tweet.
+<p>I currently offer my services through <a href="https://dochitech.co.ke">Dochitech</a>, helping businesses and organizations build fast, mobile-friendly, and visually striking websites. Whether it’s designing from scratch, revamping an existing site, or optimizing for search engines—I've got you covered.</p>
 
-<br>Email address: <a href="mailto:biz@silvanusadochi.com">biz@silvanusadochi.com</a><br>
+<p>If you’d like to work with someone who understands both the technical and creative sides of web development, feel free to reach out for a consultation or collaboration.</p>
+
+<br>Email address: <a href="mailto:silvanus@dochitech.co.ke">silvanus@dochitech.co.ke</a><br>
 My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a><br>
 My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a>
 
@@ -23,4 +24,5 @@ My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a>
 <a href="https://grandswisssuites.com/">grandswisssuites.com</a><br/>
 <a href="https://grandroyalswisshotel.com/">grandroyalswisshotel.com</a></p>
 
-<p>More about me can be found <a href="https://linkedin.com/in/silvanus-adochi-9a6081193">here</a>.</p>
+<p>More projects can be provided upon request.<br/>
+To learn more about me, visit my <a href="https://linkedin.com/in/silvanus-adochi-9a6081193">LinkedIn</a>.</p>
