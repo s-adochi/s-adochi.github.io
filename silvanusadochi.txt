@@ -13,16 +13,17 @@ My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a><br>
 My Contact: <a href="tel:+254748881724">+254 748 881724</a>
 
 <p>Here are some of the websites I've worked on:<br/>
-<a href="https://ipris.digital/">ipris.digital</a><br/>
-<a href="https://assuritycare.net/">assuritycare.net</a><br/>
-<a href="https://kaalmosom.org/">kaalmosom.org</a><br/>
-<a href="https://https://thebetterbrand.co.ke/">thebetterbrand.co.ke</a><br/>
-<a href="https://resumepro360.com/">resumepro360.com</a><br/>
-<a href="https://brondbyenterpriseslimited.com">brondbyenterpriseslimited.com</a><br/>
-<a href="https://brainshinechildreninternational.org/">brainshinechildreninternational.org</a><br/>
-<a href="https://miycalylimited.com/">miycalylimited.com</a><br/>
-<a href="https://teachingpartners.org.uk/">teachingpartners.org.uk</a><br/>
-<a href="https://acacialounge.co.ke/">acacialounge.co.ke</a><br/>
+<a href="https://ipris.digital/" target="_blank">ipris.digital</a><br/>
+<a href="https://assuritycare.net/" target="_blank">assuritycare.net</a><br/>
+<a href="https://kaalmosom.org/" target="_blank">kaalmosom.org</a><br/>
+<a href="https://thebetterbrand.co.ke/" target="_blank">thebetterbrand.co.ke</a><br/>
+<a href="https://resumepro360.com/" target="_blank">resumepro360.com</a><br/>
+<a href="https://brondbyenterpriseslimited.com" target="_blank">brondbyenterpriseslimited.com</a><br/>
+<a href="https://brainshinechildreninternational.org/" target="_blank">brainshinechildreninternational.org</a><br/>
+<a href="https://miycalylimited.com/" target="_blank">miycalylimited.com</a><br/>
+<a href="https://teachingpartners.org.uk/" target="_blank">teachingpartners.org.uk</a><br/>
+<a href="https://acacialounge.co.ke/" target="_blank">acacialounge.co.ke</a><br/>
+</p>
 
 
 <a href="https://grandroyalswisshotel.com/">grandroyalswisshotel.com</a></p>
