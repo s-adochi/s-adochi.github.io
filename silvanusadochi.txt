@@ -1,16 +1,16 @@
 <span id="a">silvanus@adochi</span>:<span id="b">~</span><span id="c">$</span> sudo dochi<br/><br/>
 Hi, I'm Silvanus Adochi Tabu.
 
-<p>I'm an SEO Specialist, Web Developer, and WordPress expert with a strong passion for creating high-performing websites that rank, engage, and convert.</p>
+<p>I’m a Web Designer, SEO Specialist, and WordPress expert with a strong passion for building high-performing websites that rank, engage, and convert.</p>
 
-<p>I currently offer my services through <a href="https://dochitech.co.ke">Dochitech</a>, helping businesses and organizations build fast, mobile-friendly, and visually striking websites. Whether it’s designing from scratch, revamping an existing site, or optimizing for search engines—I've got you covered.</p>
+<p>I help businesses and organizations create fast, mobile-friendly, and visually striking websites — whether designing from scratch, revamping an existing site, or optimizing for search engines.</p>
 
-<p>If you’d like to work with someone who understands both the technical and creative sides of web development, feel free to reach out for a consultation or collaboration.</p>
+<p>If you’re looking for someone who understands both the technical and creative sides of web development, I’d be happy to discuss how I can contribute to your projects.</p>
 
 <br>Email address: <a href="mailto:silvanus@dochitech.co.ke">silvanus@dochitech.co.ke</a><br>
 My Twitter handle is: <a href="https://twitter.com/silvanusadochi">@silvanusadochi</a><br>
 My GitHub: <a href="https://github.com/s-adochi/">@s-adochi</a><br>
-My Contact: <a href="tel:0748881724">+254 748 881724</a>
+My Contact: <a href="tel:+254748881724">+254 748 881724</a>
 
 <p>Here are some of the websites I've worked on:<br/>
 <a href="https://ipris.digital/">ipris.digital</a><br/>
