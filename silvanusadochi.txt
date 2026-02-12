@@ -1,5 +1,5 @@
 <span id="a">silvanus@adochi</span>:<span id="b">~</span><span id="c">$</span> sudo dochi<br/><br/>
-Hi, I'm Silvanus Adochi Tabu.
+Hello, I'm Silvanus Adochi.
 
 <p>I’m a Web Designer, SEO Specialist, and WordPress expert with a strong passion for building high-performing websites that rank, engage, and convert.</p>
 
